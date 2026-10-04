@@ -13,17 +13,19 @@
 - 🛠️ Building projects to turn ideas into practical solutions
 - 📚 Always learning, experimenting, and improving
 
+<div align="center">
+
 ## 🛠️ Languages & Tools
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="50%" align="left" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>💻 Programming Languages</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" alt="Programming Languages" />
       </a>
     </td>
-    <td width="50%" align="left" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>🎨 Frontend</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
@@ -31,13 +33,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="left" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>🧰 Development Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker&perline=4" alt="Development Tools" />
       </a>
     </td>
-    <td width="50%" align="left" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>⚙️ Backend & Databases</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=spring,postgres,firebase" alt="Backend & Databases" />
@@ -45,6 +47,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ## 🌍 Connect with Me
 
