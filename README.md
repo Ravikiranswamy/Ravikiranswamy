@@ -13,43 +13,19 @@
 - 🛠️ Building projects to turn ideas into practical solutions
 - 📚 Always learning, experimenting, and improving
 
-<div align="center">
-
 ## 🛠️ Languages & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>💻 Programming Languages</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" alt="Programming Languages" />
-      </a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🧰 Development Tools</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker&perline=4" alt="Development Tools" />
-      </a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚙️ Backend & Databases</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,postgres,firebase" alt="Backend & Databases" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+<img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=D4AF37&width=300&height=40&lines=Programming+Languages&repeat=false" width="300" alt="Programming Languages">&emsp;&emsp;<img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=D4AF37&width=300&height=40&lines=Frontend&repeat=false" width="300" alt="Frontend">
+<br>
+<img align="top" src="https://skillicons.dev/icons?i=c,cpp,java,mysql&perline=4" width="300" alt="Programming Languages icons">&emsp;&emsp;<img align="top" src="https://skillicons.dev/icons?i=html,css,js" width="221" alt="Frontend icons">
+</p>
 
-</div>
-
+<p align="left">
+<img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=D4AF37&width=300&height=40&lines=Development+Tools&repeat=false" width="300" alt="Development Tools">&emsp;&emsp;<img align="top" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=D4AF37&width=300&height=40&lines=Backend+%26+Databases&repeat=false" width="300" alt="Backend and Databases">
+<br>
+<img align="top" src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker&perline=4" width="300" alt="Development Tools icons">&emsp;&emsp;<img align="top" src="https://skillicons.dev/icons?i=spring,postgres,firebase" width="221" alt="Backend icons">
+</p>
 ## 🌍 Connect with Me
 
 <p align="left">
