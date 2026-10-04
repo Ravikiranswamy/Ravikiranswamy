@@ -16,39 +16,34 @@
 ## 🛠️ Languages & Tools
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Programming Languages
-
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,mysql)](https://skillicons.dev)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧰 Development Tools
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker&perline=4)](https://skillicons.dev)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Databases
-
-[![Backend](https://skillicons.dev/icons?i=spring,postgres,firebase)](https://skillicons.dev)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>💻 Programming Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" alt="Programming Languages" />
+      </a>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>🎨 Frontend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>🧰 Development Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker&perline=4" alt="Development Tools" />
+      </a>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>⚙️ Backend & Databases</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,postgres,firebase" alt="Backend & Databases" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🌍 Connect with Me
